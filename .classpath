@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Brandon/Downloads/eclipse/workspace/Brandon_Lam_OpenGLCulm/res/lwjgl-2.9.3/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Brandon/Downloads/eclipse/workspace/Brandon_Lam_OpenGLCulm/res/lwjgl-2.9.3/jar/lwjgl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/radulov/Google Drive/Humberside/Java/javadoc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/147079/Downloads/lwjgl-2.9.3/lwjgl-2.9.3/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Brandon/Downloads/eclipse/workspace/Brandon_Lam_OpenGLCulm/res/slick-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brandon/Downloads/eclipse/workspace/Brandon_Lam_OpenGLCulm/res/jl1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
